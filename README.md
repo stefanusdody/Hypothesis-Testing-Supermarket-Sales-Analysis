@@ -1,6 +1,9 @@
-## project ini dapat diakses melalui:
+## Project ini dapat diakses melalui:
 
 https://stepanusdody-batch001.herokuapp.com/
+
+
+
 
 1. Dataset
     Dataset merupakan data history penjualan salah satu perusahaan supermarket yang tercatat di 3 cabang berbeda selama 3 bulan pada tahun 2019. dimana tingkat pertumbuhan supermarket di kota tersebut padat dan semakin meningkat sehingga mengakibatkan persaingan pasar tinggi menjadi tinggi
